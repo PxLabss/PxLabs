@@ -24,6 +24,6 @@ Cada projeto é tratado com dedicação e cuidado, desde a ideia até a entrega 
 
 ## 🔗 Saiba mais:
 
-🌍 **Site oficial:** [https://pxlabs.vercel.app](https://pxlabs.vercel.app)
+🌍 **Site oficial:**[https://pxlabs.vercel.app](https://pxlabs.vercel.app)
 
 📣 Junte-se a nós
